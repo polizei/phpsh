@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 from optparse import OptionParser
 from phpsh import PhpshState, PhpMultiliner, do_sugar, line_encode, __version__

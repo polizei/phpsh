@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
+
 from distutils.core import setup
 from subprocess import Popen
 import sys

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 from select import poll, POLLIN, POLLHUP
 from subprocess import Popen, PIPE
